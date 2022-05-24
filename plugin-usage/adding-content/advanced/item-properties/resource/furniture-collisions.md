@@ -1,8 +1,8 @@
-# Furniture collisions
+# Kolizje mebli
 
-### How can I make a furniture solid?
+### Jak mogę stworzyć stały mebel?
 
-You can make a furniture solid adding the "solid" attribute.
+Można uczynić mebel stałym, dodając atrybut "solid"..
 
 ```yaml
   table:
